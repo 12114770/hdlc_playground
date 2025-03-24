@@ -1,0 +1,17 @@
+#--------------------------------------------------------------------------
+# AMD Vivado v2024.2 (64-bit)
+# SW Build: 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build: 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build: 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Current time: Sat Mar 22 20:39:14 CET 2025
+# Process ID (PID): 1151885
+# User: lukas
+# OS: Ubuntu
+# Project: spi_slave
+# Part: Basys3 (xc7a35tcpg236-1)
+#
+# This file is an indication that an internal application error occurred.
+# This information is useful for debugging. Please open a case with AMD.
+# Technical Support with this file and a testcase attached.
+#--------------------------------------------------------------------------
+Target FileSet is null. Cannot finish Drag-Drop operation.
