@@ -6,7 +6,7 @@
 #include <vector>
 #include <boost/crc.hpp>
 
-#define SPI_DEVICE "/dev/spidev0.0"
+#define SPI_DEVICE "/dev/spidev0.1"
 #define SPI_SPEED 500000  // 500 kHz
 
 #define FLAG  0x7E  // HDLC Frame delimiter
